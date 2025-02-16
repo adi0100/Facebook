@@ -1,0 +1,127 @@
+body{
+    margin: 0px;
+    font-family: sans-serif;
+}
+.header{
+    background-color:#3b5998;
+    width: 100%;
+    height: 85px;
+}
+.logo{
+    width:50%;
+    float:left;
+    padding-right: 17px;
+    padding-top: 7px;
+}
+.login{
+    width: 50%;
+    float: right;
+    padding-top: 3px;
+    padding-right: 31px;
+    
+}
+    
+.fblogo{
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 35px;
+    font-family:sans-serif;
+    margin-left: 135px;
+    position: fixed;
+    top: 25px;
+
+}
+.login-setup{
+    color: #fff;
+    font-size: 12px;
+}
+.forgot{
+    color: #9cb4d8;
+    text-decoration: none;
+}
+.login-button{
+    background-color: #4267b2;
+    color: #fff ;
+    border-color: #29487d;
+    height: 20px;
+    cursor: pointer;
+}
+.login-button:hover{
+    background-color: darkblue;
+}
+.forgot:hover{
+    color: lightblue;
+}
+.left-body{
+    width: 50%;
+    padding-left: 105px;
+    padding-top: 72px;
+    float: left;
+}
+.content{
+    background:linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 524px;
+}
+.image{
+    width:650px;
+    padding-right: 10px;
+    
+}
+.note{
+    font-weight: bold;
+    font-size: 21px;
+    padding-left: 8px;
+}
+.right-body{
+    width: 40%;
+    float: right;
+    margin-top: 0%;
+}
+.head2{
+    font-weight: 600;
+}
+.fname{
+    height: 24px;
+    width: 200px;
+    border-radius: 4px;
+    font-size: 15px;
+
+}
+.sname{
+    margin-right: 81px;
+    height: 24px;
+    width: 200px;
+    border-radius: 4px;
+    font-size: 15px;
+}
+.cont{
+    margin-top: 13px;
+    height: 24px;
+    width: 431px;
+    font-size: 15px;
+}
+.npass{
+    margin-top: 13px;
+    height: 24px;
+    width: 431px;
+    font-size: 15px;
+}
+.gender{
+    padding-top: 15px;
+}
+.declaration{
+    font-size: small;
+    color: grey;
+}
+.sign_up{
+    color: #fff;
+    background-color: green;
+    width: 160px;
+    height: 41px;
+    border-radius: 10px;
+}
+.sign_up:hover{
+    background-color: darkgreen;
+}
